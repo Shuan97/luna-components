@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# cache
+/.cache
+
+# vscode
+/.vscode
+
+# production
+/build
+/dist
+
+# rest
+/.yalc

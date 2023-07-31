@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    // Language and Environment
+    "lib": ["DOM", "ES6"],
+    "target": "ES6",
+    // JavaScript support
+    "allowJs": false,
+    "skipLibCheck": false,
+    "esModuleInterop": false,
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react",
+    "types": ["react", "node"], 
+  },
+  "include": ["./src/**/*"],
+}
